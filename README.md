@@ -19,7 +19,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 🤩 Hackhero Badges
-![Web Fundamentals](https://drive.google.com/uc?export=view&id=1J4z-SnqSkht--xOc9LgYwieCKm67QV9j)
+<img src="https://drive.google.com/uc?export=view&id=1J4z-SnqSkht--xOc9LgYwieCKm67QV9j" alt="Web Fundamentals" width="300" height="200">
 
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamadAli20&icon=0&color=0)](https://visitcount.itsvg.in)
