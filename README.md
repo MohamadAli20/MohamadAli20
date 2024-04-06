@@ -28,6 +28,8 @@
 ### 🤩 Certificates & Badges
 <div>
   <img src="https://drive.google.com/uc?export=view&id=1AmCwCalOck8t-Ig63ceLiaVCtNjGZKaD" alt="Web Fundamentals" width=200">
+  <img src="https://drive.google.com/uc?export=view&id=1MEmKRGU2RJC1flIy-Z-uhhq5srE63H9f" alt="Advanced PHP" width=200">
+  <img src="https://drive.google.com/uc?export=view&id=1elVnTbaWcwou5doi1GXYUsJ3Zo2bLKqz" alt="Advanced PHP" width=200">
 </div>
 
 ---
