@@ -17,8 +17,7 @@
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 ### 🤩 Certificates & Badges
-[![Hacker Hero Badges](https://drive.google.com/uc?export=view&id=1QCBtCNPuHhOaQMHZhyNpRT-wIYJkLUZY)]([https://facebook.com/mohamadalicalanda](https://drive.google.com/uc?export=view&id=1R6fDLDqsm8CoNsTAylW_X_0-zDKwMxsN
-) 
+[![Hacker Hero Badges](https://drive.google.com/uc?export=view&id=1QCBtCNPuHhOaQMHZhyNpRT-wIYJkLUZY)](https://drive.google.com/uc?export=view&id=1R6fDLDqsm8CoNsTAylW_X_0-zDKwMxsN) 
 
 
 ---
