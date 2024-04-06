@@ -18,6 +18,9 @@
 ### 😂 Random Dev Meme
 <img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
+### 🤩 Hackhero Badges
+![web Fundamentals](https://drive.google.com/file/d/1J4z-SnqSkht--xOc9LgYwieCKm67QV9j/view?usp=drive_link)
+
 ---
 [![](https://visitcount.itsvg.in/api?id=MohamadAli20&icon=0&color=0)](https://visitcount.itsvg.in)
 
