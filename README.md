@@ -27,7 +27,7 @@
 
 ### 🤩 Certificates & Badges
 <div>
-  <img src="https://drive.google.com/uc?export=view&id=1AmCwCalOck8t-Ig63ceLiaVCtNjGZKaD" alt="Web Fundamentals" width=100">
+  <img src="https://drive.google.com/uc?export=view&id=1AmCwCalOck8t-Ig63ceLiaVCtNjGZKaD" alt="Web Fundamentals" width=200">
 </div>
 
 ---
