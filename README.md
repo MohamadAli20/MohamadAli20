@@ -19,14 +19,6 @@
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=MohamadAli20&limit=5&theme=dark&combine_all_yearly_contributions=true)
 
-### 🤩 Certificates & Badges
-<div>
-  <img src="https://drive.google.com/uc?export=view&id=1AmCwCalOck8t-Ig63ceLiaVCtNjGZKaD" alt="Web Fundamentals Badge" height=200">
-  <img src="https://drive.google.com/uc?export=view&id=1MEmKRGU2RJC1flIy-Z-uhhq5srE63H9f" alt="Advanced PHP Badge" height=200">
-  <img src="https://drive.google.com/uc?export=view&id=1elVnTbaWcwou5doi1GXYUsJ3Zo2bLKqz" alt="Javascript Badge" height=200">
-</div>
-<img src="https://drive.google.com/uc?export=view&id=1BwtsrEiy2SLxsIWCV1wDGmdeuI4smSgl" alt="Web Fundamentals Certificate" width="100%">
-
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
