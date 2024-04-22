@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Aspiring Software Developer<br>💻 I'm currently a Regular Trainee at Village88, Inc.<br>🏫 I'm currently studying at Cavite State University<br>👨‍🎓 I'm computer science student<br><br>
+💻 I'm currently a Regular Trainee at Village88, Inc.<br>🏫 I'm currently studying at Cavite State University<br>👨‍🎓 I'm computer science student<br><br>
 
 
 ## 🌐 Socials:
