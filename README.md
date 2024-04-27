@@ -24,7 +24,7 @@
 ![JSON](https://img.shields.io/badge/json-%23323330.svg?style=for-the-badge&logo=json&logoColor=%23F7DF1a) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
-![PIP](https://img.shields.io/badge/PIP-b88963.svg?style=for-the-badge&logo=pip&logoColor=black) 
+![PIP](https://img.shields.io/badge/pip-5e5c5b.svg?style=for-the-badge&logo=pypi&logoColor=775A9) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
 ![AJAX](https://img.shields.io/badge/AJAX-db3bd9.svg?style=for-the-badge&logo=ajax&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
