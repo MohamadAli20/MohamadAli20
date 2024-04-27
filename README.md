@@ -21,6 +21,7 @@
 ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) 
 ![Code-Igniter3](https://img.shields.io/badge/CodeIgniter3-%23EF4223.svg?style=for-the-badge&logo=codeIgniter&logoColor=white) 
 ![MVC Framework](https://img.shields.io/badge/MVC%20Framework-%fc03b5.svg?style=for-the-badge&logo=mvc&logoColor=black)
+![JSON](https://img.shields.io/badge/json-%23323330.svg?style=for-the-badge&logo=json&logoColor=%23F7DF1a) 
 ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) 
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![PIP](https://img.shields.io/badge/PIP-b88963.svg?style=for-the-badge&logo=pip&logoColor=black) 
