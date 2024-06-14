@@ -30,7 +30,6 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![PIP](https://img.shields.io/badge/pip-5e5c5b.svg?style=for-the-badge&logo=pypi&logoColor=775A9) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![AJAX](https://img.shields.io/badge/AJAX-db3bd9.svg?style=for-the-badge&logo=ajax&logoColor=black) 
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![ERD](https://img.shields.io/badge/erd-%23323330.svg?style=for-the-badge&logo=erd&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
@@ -41,6 +40,7 @@
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) 
 ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) 
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-%fc03b5.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) 
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) 
 
 
