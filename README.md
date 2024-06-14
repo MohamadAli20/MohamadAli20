@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 Aspiring Software Developer<br>💻 I graduated and finished Full Stack Web Development Training at Village88, Inc. (Bootcamp).<br>🏫 I'm currently studying at Cavite State University<br>👨‍🎓 I'm computer science student<br><br>
+👨‍💻 Aspiring Software Developer<br>💻 I graduated and finished Full Stack Web Development Training at Village88, Inc. (Bootcamp).<br>🏫 I'm currently studying at Cavite State University<br>👨‍🎓 I'm computer science student<br>📌 Open for coding collaboration<br>
 
 ## 📄 Resume
 [Download My Resume](https://drive.google.com/uc?id=1Ngz4l2okHb3ucdWeeQbZ4Cd_HPbqjyYL)
