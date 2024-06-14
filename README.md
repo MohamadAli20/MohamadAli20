@@ -1,6 +1,9 @@
 # 💫 About Me:
 👨‍💻 Aspiring Software Developer<br>💻 I graduated and finished Full Stack Web Development Training at Village88, Inc. (Bootcamp).<br>🏫 I'm currently studying at Cavite State University<br>👨‍🎓 I'm computer science student<br><br>
 
+# Resume
+[Download My PDF](https://drive.google.com/uc?id=1Ngz4l2okHb3ucdWeeQbZ4Cd_HPbqjyYL)
+
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-ali-calanda-1524b1286) 
 
