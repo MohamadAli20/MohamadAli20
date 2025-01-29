@@ -2,7 +2,7 @@
 👨‍💻 Aspiring Software Developer<br>💻 I graduated and finished Full Stack Web Development Training at Village88, Inc. (Bootcamp).<br>🏫 I completed a Bachelor of Science in Computer Science and graduated from Cavite State University.<br>📌 Open for coding collaboration<br>
 
 ## 📄 Resume
-[Download My Resume](https://drive.google.com/file/d/1VZ_P6KLnW1qYk-vEKmaWYoMc4sFGUX_Q/view)
+[Download My Resume](https://drive.google.com/file/d/1VZ_P6KLnW1qYk-vEKmaWYoMc4sFGUX_Q/view){:target="_blank"}
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/mohamad-ali-calanda-1524b1286) 
