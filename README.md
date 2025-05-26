@@ -32,7 +32,7 @@
 ![Nodemon](https://img.shields.io/badge/NODEMON-%23323330.svg?style=for-the-badge&logo=nodemon&logoColor=%BBDEAD) 
 ![PIP](https://img.shields.io/badge/pip-5e5c5b.svg?style=for-the-badge&logo=pypi&logoColor=775A9) 
 ![Socket.io](https://img.shields.io/badge/Socket.io-black?style=for-the-badge&logo=socket.io&badgeColor=010101)
-![MSSQL](https://img.shields.io/badge/mssql-%fc03b5.svg?style=for-the-badge&logo=MSSQL&logoColor=black)
+![MSSQL](https://img.shields.io/badge/mssql-%ffffff.svg?style=for-the-badge&logo=MSSQL&logoColor=ffdd54)
 ![MySQL](https://img.shields.io/badge/mysql-%2300000f.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![ERD](https://img.shields.io/badge/erd-%23323330.svg?style=for-the-badge&logo=erd&logoColor=white)
 ![Amazon](https://img.shields.io/badge/Amazon-FF9900?style=for-the-badge&logo=amazon&logoColor=white)
